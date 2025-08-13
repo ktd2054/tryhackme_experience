@@ -1,6 +1,6 @@
 ## OpenCTI Introduction
 
-Acording to TryHackMe.com, OpenCTI is another open-sourced platform designed to provide organisations with the means to manage CTI through the storage, analysis, visualisation and presentation of threat campaigns, malware and IOCs.
+According to TryHackMe.com, OpenCTI is another open-sourced platform designed to provide organisations with the means to manage CTI through the storage, analysis, visualisation and presentation of threat campaigns, malware and IOCs.
 Developed by the collaboration of the French National cybersecurity agency (ANSSI), the platform's main objective is to create a comprehensive tool that allows users to capitalise on technical and non-technical information while developing relationships between each piece of information and its primary source. 
 
 ## OpenCTI Data Model
@@ -17,6 +17,29 @@ STIX 2.1-based knowledge graph:
 - STIX Cyber Observables (SCOs): IPs, domains, file hashes, etc.
 - STIX Relationship Objects (SROs): Connects two entities (e.g., uses, associated-with).
 - OpenCTI extensions: Extra entity types (e.g., disinformation, narratives, crypto wallets).
+
+### Architecture Components
+
+- GraphQL API – main interface to query/manage data.
+
+- Workers – process and store data asynchronously.
+
+- Connectors – ingest, enrich, and export CTI data.
+
+### Data Intelligence Features
+
+- Deduplication – auto-detect and merge duplicates.
+
+- Merging – unify multiple entities into one.
+
+- Confidence & Markings – TLP tags, trust levels, access control.
+
+- Inference Rules – auto-create relationships and sightings.
+
+### Exploration Tools
+
+- Schema browser – explore available entity/relationship types.
+- Graph visualizations – pivot across related entities for investigations.
 
 ### Summary Table
 
