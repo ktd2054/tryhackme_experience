@@ -50,3 +50,19 @@ STIX 2.1-based knowledge graph:
 | **Workers & Connectors**       | Ingest, export, enrich, and process CTI data asynchronously.              |
 | **Data Intelligence Features** | Deduplication, merging, marking, confidence control, and inference rules. |
 | **Exploration Tools**          | Interactive schema browsing and investigative graph navigation.           |
+
+
+## OpenCTI Labs
+
+### OpenCTI Dashboard 1
+
+After connecting to the OpenCTI web platform, the opening dashboard displays distinct visual widgets summarizing the data ingested into the system. These widgets highlight key metrics such as the total number of entities, relationships, reports, and observables, along with changes recorded within the last 24 hours.
+
+On the left-hand sidebar, under the “Activities and Knowledge” section, OpenCTI organizes information into two main categories:
+
+- Activities – Contains security incidents ingested into the platform, typically in the form of reports.
+
+- Knowledge – Provides interconnected data about attacker tools, targeted victims, and the types of threat actors involved.
+
+This structure allows users to quickly assess recent activity and navigate linked threat intelligence data for deeper analysis.
+
