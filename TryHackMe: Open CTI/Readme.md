@@ -113,3 +113,63 @@ Definition: Core objects in the OpenCTI knowledge graph (e.g., organizations, th
 Purpose: Serves as the building blocks for relationships and threat analysis.
 
 Example: APT29 as a threat actor entity linked to specific campaigns and tools.
+
+### OpenCTI Dashboard 2
+
+- General Tabs Navigation
+
+In day-to-day use, OpenCTI analysts navigate through different entities within the platform to explore and utilize threat intelligence for investigations.
+For this walkthrough, we will examine the Cobalt Strike malware entity, commonly found under the Arsenal tab.
+
+When we select an intelligence entity, its details are presented through several key tabs:
+
+1. Overview Tab
+
+-  Provides general information about the selected entity, including:
+  
+-  Entity ID and confidence level
+  
+-  Description and related context
+  
+-  Relationships with threats, intrusion sets, and attack patterns
+  
+- Reports mentioning the entity
+  
+-  Any external references
+
+
+2. Knowledge Tab
+
+-  Displays all linked information associated with the entity, such as:
+  
+-  Associated reports, indicators, and relationships
+  
+-  Attack pattern timeline
+  
+-  Detailed panels on the right-hand side covering threats, attack vectors, events, and observables connected to the entity
+
+
+3. Analysis Tab
+
+-  Lists reports where the entity has been observed.
+  
+-  Provides actionable intelligence about the threat
+  
+-  Assists in guiding investigation tasks
+
+
+4. Indicators Tab
+
+- Shows all Indicators of Compromise (IOCs) linked to the entity and related threats.
+
+5. Data Tab
+
+- Contains files uploaded or generated for export that relate to the entity.
+
+- Useful for sharing information in technical or non-technical formats.
+
+6. History Tab
+
+- Tracks changes made to the entity’s attributes, relationships, and linked data.
+
+- Updated automatically by platform workers for audit and traceability.
