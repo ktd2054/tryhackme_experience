@@ -66,3 +66,50 @@ On the left-hand sidebar, under the “Activities and Knowledge” section, Open
 
 This structure allows users to quickly assess recent activity and navigate linked threat intelligence data for deeper analysis.
 
+#### Analysis Tab
+
+The Analysis tab contains the input entities referenced in reports, along with associated external references. Reports play a central role in OpenCTI, as they consolidate knowledge on threats and events that have been extracted, processed, and mapped within the platform. This enables analysts to quickly identify the source of information and assess its context.
+
+In addition to the extracted data, analysts can enhance reports by adding investigation notes, attaching external resources, and linking related intelligence for knowledge enrichment.
+
+To view report details, navigate to the Analysis tab and select a report from the list displayed on the left panel. This will open a detailed view of the report’s entities, relationships, and references.
+
+### Events
+
+Definition: Recorded security-related occurrences, tied to incidents, campaigns, or intrusion sets.
+
+Purpose: Acts as a timeline reference, connecting multiple entities such as threat actors, malware, and victims.
+
+Example: A ransomware campaign launched in March 2025 targeting healthcare providers.
+
+#### Observations
+
+Definition: Technical artifacts or facts observed in the real world (STIX Cyber Observables).
+
+Purpose: Serves as raw evidence for analysis, such as IPs, domains, hashes, or email headers.
+
+Example: An IP address linked to a known command-and-control (C2) server.
+
+#### Threats
+
+Definition: Adversarial activities or actors capable of causing harm to an organization.
+
+Purpose: Profiles adversaries, their tactics, motivations, and objectives.
+
+Example: A financially motivated threat actor exploiting zero-day vulnerabilities.
+
+#### Arsenal
+
+Definition: Tools, malware, exploits, and attack techniques used by adversaries.
+
+Purpose: Identifies attacker capabilities and predicts potential tactics.
+
+Example: Use of Mimikatz for credential dumping.
+
+#### Entities
+
+Definition: Core objects in the OpenCTI knowledge graph (e.g., organizations, threat actors, malware, vulnerabilities).
+
+Purpose: Serves as the building blocks for relationships and threat analysis.
+
+Example: APT29 as a threat actor entity linked to specific campaigns and tools.
