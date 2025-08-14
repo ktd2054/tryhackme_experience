@@ -74,7 +74,7 @@ In addition to the extracted data, analysts can enhance reports by adding invest
 
 To view report details, navigate to the Analysis tab and select a report from the list displayed on the left panel. This will open a detailed view of the report’s entities, relationships, and references.
 
-### Events
+#### Events
 
 Definition: Recorded security-related occurrences, tied to incidents, campaigns, or intrusion sets.
 
