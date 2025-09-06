@@ -1,0 +1,23 @@
+
+title: "TryHackMe: Benign — Walkthrough"
+description: "End-to-end Splunk investigation of the TryHackMe Benign room: data onboarding, SPL queries, timeline, ATT&CK mapping, findings, and remediation."
+categories: ["Blue Team", "SIEM", "TryHackMe"]
+tags:
+  - TryHackMe
+  - Benign
+  - Splunk
+  - SPL
+  - SOC L1
+  - Log Analysis
+  - Threat Hunting
+  - Incident Response
+  - Windows Event Logs
+  - Sysmon
+  - MITRE ATT&CK
+  - IOCs
+  - Detection Engineering
+  - Timeline
+  - Playbooks
+  - Walkthrough
+  - Write-up
+---
