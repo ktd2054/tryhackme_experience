@@ -12,4 +12,4 @@
 ![Logs](https://img.shields.io/badge/Logs-Windows%20Event%20Logs%20%7C%20Sysmon-orange)
 ![Type](https://img.shields.io/badge/Type-Walkthrough%20%2F%20Write--up-brightgreen)
 
-> End-to-end Splunk investigation of TryHackMe **Benign**: data onboarding, key SPL, timeline, ATT&CK mapping, IOCs, findings, and remediation.
+
