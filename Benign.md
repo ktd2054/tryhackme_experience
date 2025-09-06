@@ -2,6 +2,7 @@
 
 <img width="744" height="354" alt="image" src="https://github.com/user-attachments/assets/1bcc040d-9ea0-4eee-8fcc-0a8c803d2e91" />
 
+
 ![Platform](https://img.shields.io/badge/Platform-Splunk-blue)
 ![Focus](https://img.shields.io/badge/Focus-Blue%20Team%20%2F%20SIEM-red)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
