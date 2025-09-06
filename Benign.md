@@ -15,7 +15,7 @@
 ![Logs](https://img.shields.io/badge/Logs-Windows%20Event%20Logs%20%7C%20Sysmon-orange)
 ![Type](https://img.shields.io/badge/Type-Walkthrough%20%2F%20Write--up-brightgreen)
 
-#TASK 1
+# TASK 1
 ## Introduction 
 We will investigate host-centric logs in this challenge room to find suspicious process execution. To learn more about Splunk and how to investigate the logs, look at the rooms splunk101 and splunk201.
 
