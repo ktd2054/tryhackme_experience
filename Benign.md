@@ -15,10 +15,37 @@
 ![Logs](https://img.shields.io/badge/Logs-Windows%20Event%20Logs%20%7C%20Sysmon-orange)
 ![Type](https://img.shields.io/badge/Type-Walkthrough%20%2F%20Write--up-brightgreen)
 
-
+#TASK 1
 ## Introduction 
 We will investigate host-centric logs in this challenge room to find suspicious process execution. To learn more about Splunk and how to investigate the logs, look at the rooms splunk101 and splunk201.
 
 ### Room Machine
 
 Before moving forward, deploy the machine. When you deploy the machine, it will be assigned an IP. Access this room via the AttackBox, or via the VPN at MACHINE_IP. The machine will take up to 3-5 minutes to start. ll the required logs are ingested in the index win_eventlogs.
+
+# TASK 2
+## Scenario: Identify and Investigate an Infected Host
+
+One of the client’s IDS indicated a potentially suspicious process execution indicating one of the hosts from the HR department was compromised. Some tools related to network information gathering / scheduled tasks were executed which confirmed the suspicion. Due to limited resources, we could only pull the process execution logs with Event ID: 4688 and ingested them into Splunk with the index win_eventlogs for further investigation.
+
+About the Network Information
+
+The network is divided into three logical segments. It will help in the investigation.
+
+#### IT Department
+
+- James
+- Moin
+- Katrina
+
+#### HR department
+
+- Haroon
+- Chris
+- Diana
+
+#### Marketing department
+
+- Bell
+- Amelia
+- Deepak
