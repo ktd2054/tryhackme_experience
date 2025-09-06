@@ -12,4 +12,6 @@
 ![Logs](https://img.shields.io/badge/Logs-Windows%20Event%20Logs%20%7C%20Sysmon-orange)
 ![Type](https://img.shields.io/badge/Type-Walkthrough%20%2F%20Write--up-brightgreen)
 
+<img width="736" height="398" alt="image" src="https://github.com/user-attachments/assets/6b0960b7-f4a5-4ef3-8483-9ea739d95cd8" />
+
 
