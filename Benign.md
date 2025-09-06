@@ -16,4 +16,9 @@
 ![Type](https://img.shields.io/badge/Type-Walkthrough%20%2F%20Write--up-brightgreen)
 
 
+## Introduction 
+We will investigate host-centric logs in this challenge room to find suspicious process execution. To learn more about Splunk and how to investigate the logs, look at the rooms splunk101 and splunk201.
 
+### Room Machine
+
+Before moving forward, deploy the machine. When you deploy the machine, it will be assigned an IP. Access this room via the AttackBox, or via the VPN at MACHINE_IP. The machine will take up to 3-5 minutes to start. ll the required logs are ingested in the index win_eventlogs.
