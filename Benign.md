@@ -69,7 +69,8 @@ Answer: When you scroll down and click to Username on Sidebar, you will get 11 u
 
  Hurray!!! You will find the name.
 
-<img width="573" height="315" alt="q2" src="https://github.com/user-attachments/assets/cf85cdbd-948b-4ef9-980f-a9b8108c3cbd" />
+<img width="573" height="315" alt="q2" src="https://github.com/user-attachments/assets/29e4b554-4176-429b-97d0-58309bbfc80c" />
+
 
  
  
