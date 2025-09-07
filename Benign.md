@@ -58,3 +58,4 @@ Answer: To find the answer search with <b> index="win_eventlogs" </b> and set da
 
 <img width="568" height="58" alt="image" src="https://github.com/user-attachments/assets/4d1fbb52-265f-4cf2-8d33-ddd6892c038a" />
 
+=> 13, 959.
