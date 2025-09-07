@@ -58,4 +58,17 @@ The network is divided into three logical segments. It will help in the investig
 
   <img width="568" height="58" alt="image" src="https://github.com/user-attachments/assets/4d1fbb52-265f-4cf2-8d33-ddd6892c038a" />
 
-  => 13, 959.
+  => 13,959.
+
+2) Imposter Alert: There seems to be an imposter account observed in the logs, what is the name of that user?
+
+Answer: When you scroll down and click to Username on Sidebar, you will get 11 usernames. To, find an imposter type
+
+<b> index=win_eventlogs | top limit=11 UserName </b>
+
+ Hurray!!! You will find the name.
+
+<img width="573" height="315" alt="q2" src="https://github.com/user-attachments/assets/cf85cdbd-948b-4ef9-980f-a9b8108c3cbd" />
+
+ 
+ 
