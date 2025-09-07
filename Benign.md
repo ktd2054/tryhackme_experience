@@ -56,7 +56,8 @@ The network is divided into three logical segments. It will help in the investig
 
   Answer: To find the answer search with <b> index="win_eventlogs" </b> and set date to March, 2022.
 
-  <img width="568" height="58" alt="image" src="https://github.com/user-attachments/assets/4d1fbb52-265f-4cf2-8d33-ddd6892c038a" />
+ <img width="568" height="58" alt="q1" src="https://github.com/user-attachments/assets/188198ea-f621-4afb-ac92-ad7de69959b1" />
+
 
   => 13,959.
 
