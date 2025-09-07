@@ -54,8 +54,8 @@ The network is divided into three logical segments. It will help in the investig
 
 1) How many logs are ingested from the month of March, 2022?
 
-Answer: To find the answer search with <b> index="win_eventlogs" </b> and set date to March, 2022.
+  Answer: To find the answer search with <b> index="win_eventlogs" </b> and set date to March, 2022.
 
-<img width="568" height="58" alt="image" src="https://github.com/user-attachments/assets/4d1fbb52-265f-4cf2-8d33-ddd6892c038a" />
+  <img width="568" height="58" alt="image" src="https://github.com/user-attachments/assets/4d1fbb52-265f-4cf2-8d33-ddd6892c038a" />
 
-=> 13, 959.
+  => 13, 959.
